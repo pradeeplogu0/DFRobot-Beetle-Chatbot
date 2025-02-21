@@ -7,9 +7,9 @@ int led0 = 15;
 int led1 = 4;
 
 // WiFi credentials
-const char* ssid = "Sellamuthu";
-const char* password = "36180402";
-const char* apiKey = "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";
+const char* ssid = "";
+const char* password = "";
+const char* apiKey = "";
 
 // Create WebServer object on port 80
 WebServer server(80);
